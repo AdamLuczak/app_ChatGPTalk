@@ -17,11 +17,8 @@ ChatGPTTalk is an iOS application that serves as a demonstration of how to integ
 
 Explore the app's interface and features through these screenshots:
 
-- ![Screen 0](media/screen_0.png)
-- ![Screen 1](media/screen_1.png)
-- ![Screen 2](media/screen_2.png)
-- ![Screen 3](media/screen_3.png)
-- ![Screen 4](media/screen_4.png)
+<img src="media/screen_0.png" width="200"/> <img src="media/screen_1.png" width="200"/> <img src="media/screen_2.png" width="200"/> <img src="media/screen_3.png" width="200"/> <img src="media/screen_4.png" width="200"/>
+
 
 ## Installation
 
