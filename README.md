@@ -33,7 +33,7 @@ To use this project:
 This project is licensed under the MIT License with an additional attribution clause. The terms of the license are as follows:
 
 - **Permission to Use**: Everyone is free to use, modify, and distribute copies of this software in both private and commercial settings.
-- **Attribution Requirement**: If you use this software, modify it, or distribute it, you are required to credit the original author, [Your Name or Organization]. This can be done through a citation or a link back to the original repository.
+- **Attribution Requirement**: If you use this software, modify it, or distribute it, it would be appreciated if you could credit the original author, Adam Łuczak. This can be achieved through a citation or a link back to the original repository, although it is not mandatory.
 - **No Warranty**: The software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement.
 - **Liability**: In no event shall the author be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
 
