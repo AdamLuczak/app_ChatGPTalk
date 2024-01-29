@@ -28,3 +28,17 @@ To use this project:
 1. Clone or download the repository to your local machine.
 2. Open the project in Xcode and configure it as needed.
 3. Build and run the application on your iOS device or simulator.
+
+## License
+This project is licensed under the MIT License with an additional attribution clause. The terms of the license are as follows:
+
+- **Permission to Use**: Everyone is free to use, modify, and distribute copies of this software in both private and commercial settings.
+- **Attribution Requirement**: If you use this software, modify it, or distribute it, you are required to credit the original author, [Your Name or Organization]. This can be done through a citation or a link back to the original repository.
+- **No Warranty**: The software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement.
+- **Liability**: In no event shall the author be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
+
+For the full terms and conditions, please refer to the MIT License documentation.
+
+## Contact
+For any further inquiries or suggestions, please contact [Your Name or Organization] at [your-email@example.com].
+
