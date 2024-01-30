@@ -40,5 +40,5 @@ This project is licensed under the MIT License with an additional attribution cl
 For the full terms and conditions, please refer to the MIT License documentation.
 
 ## Contact
-For any further inquiries or suggestions, please contact [Your Name or Organization] at [your-email@example.com].
+For any further inquiries or suggestions, please contact Adam Łuczak at adam.luczak@outlook.com.
 
