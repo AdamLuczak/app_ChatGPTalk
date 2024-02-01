@@ -1,4 +1,4 @@
-# ChatGPTTalk
+# ChatGPTTalk <img align="right" src="media/icon.png">
 
 ![language](https://img.shields.io/badge/language-Swift-orange)
 ![license](https://img.shields.io/badge/license-MIT-green)
